@@ -1,0 +1,7 @@
+﻿<NavigationWindow x:Name="___Sin_nombre_" x:Class="ExamenProyecto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Animaciones" Height="500" Width="800" Source="VentP.xaml" MinWidth="800" MinHeight="500" MaxWidth="800" MaxHeight="500" ResizeMode="NoResize">
+   
+
+</NavigationWindow>
